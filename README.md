@@ -1,7 +1,6 @@
 # RPA-Projects
 All RPA(UiPath) Projects
 
-Customer_Credit_Report_Automation
 List of RPA Projects
 |S.No|  Project Name | Links   |
 |-----| ------------ | ------------ |
