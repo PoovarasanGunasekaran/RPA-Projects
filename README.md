@@ -1,7 +1,7 @@
 # RPA-Projects
 All RPA(UiPath) Projects
 
-
+Customer_Credit_Report_Automation
 List of RPA Projects
 |S.No|  Project Name | Links   |
 |-----| ------------ | ------------ |
@@ -9,3 +9,4 @@ List of RPA Projects
 |2.|  Banca Receipting Bot | [Banca_Receipting_Bot](https://github.com/PoovarasanGunasekaran/RPA-Projects/tree/main/Banca_Receipting_Bot "Banca_Receipting_Bot") |
 |3.|  Campaign Process Automation | [Campaign_Process_Automation](https://github.com/PoovarasanGunasekaran/RPA-Projects/tree/main/Campaign_Process_Automation "Campaign_Process_Automation") |
 |4.|  Customer_Request_Form_Automation | [Customer_Request_Form_Automation](https://github.com/PoovarasanGunasekaran/RPA-Projects/tree/main/Customer_Request_Form_Automation "Customer_Request_Form_Automation") |
+|5.|  CCRA(Customer Credit Report Automation | [Customer_Credit_Report_Automation](https://github.com/PoovarasanGunasekaran/RPA-Projects/tree/main/Customer_Credit_Report_Automation "Customer_Credit_Report_Automation") |
